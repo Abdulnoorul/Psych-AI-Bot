@@ -2,7 +2,7 @@
     width: 100vw;
     height: 100vh;
     
-    background-image: url("bit.JPG");
+    background-image: url("/bit.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
