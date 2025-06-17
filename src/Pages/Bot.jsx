@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 
 function Bot() {
 
-  const text = ["Let's", "Have some", "Fun with", "The Bot", "Build ", "By", "Psycho God", "Click Here to Log-Out"];
+  const text = ["Let's", "Have some", "Fun with", "The Bot", "Build ", "By", "Abdul Khan", "Click Here to Log-Out"];
 
   const navigate = useNavigate()
 
