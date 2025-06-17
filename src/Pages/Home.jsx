@@ -109,7 +109,7 @@ function Home() {
             <div className="lform">
               <div className="uname">
                 <label htmlFor="">
-                  User Email<sup>*</sup>:
+                  Email<sup>*</sup>:
                 </label>
 
                 <input
